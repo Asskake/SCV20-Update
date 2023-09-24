@@ -1,20 +1,20 @@
 
   <body>
-<h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
+<h1 align="center">Haloo!!</h1>
 <br>
 <div align="center">
-<img src="https://i.imgur.com/jx17oHT.gif">
+<img src="https://telegra.ph/file/7b5416e93b4423845762d.jpg">
 </div>
 <br>
 </p>
 <div>
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://telegra.ph/file/7b5416e93b4423845762d.jpg" align="right">
 <div>
 </p>
 </p>
-<h4><font size="2"><a href="https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g"><font color="red">SUBSCRIBE</font>
+<h4><font size="2"><a href="https://www.youtube.com/channel/UCC3lP1RsRo-C1ZWGlWogeow"><font color="red">SUBSCRIBE</font>
 </h4>
-<h4><font size="2"><a href="https://www.instagram.com/hikal_857/?hl=id"><font color="red">FOLLOW INSTAGRAM</font>
+<h4><font size="2"><a href="https://www.instagram.com/justto.39_/?hl=id"><font color="red">FOLLOW INSTAGRAM</font>
 </h4>
 <h4><font size="2"><a href="https://t.me/haikal857"><font color="red">TELEGRAM</font>          
 </p>
