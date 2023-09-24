@@ -8,7 +8,7 @@
 <br>
 </p>
 <div>
-<img src="https://telegra.ph/file/7b5416e93b4423845762d.jpg" align="right">
+<img src="-" align="right">
 <div>
 </p>
 </p>
